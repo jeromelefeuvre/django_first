@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f246432-314a-4cd8-b6c0-f12a0df7a435" name="Default" comment="first commit">
+    <list default="true" id="7f246432-314a-4cd8-b6c0-f12a0df7a435" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite.iws" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="14" selection-start="600" selection-end="600" vertical-scroll-proportion="0.22340426" vertical-offset="216" max-vertical-offset="1584">
+            <state line="19" column="14" selection-start="600" selection-end="600" vertical-scroll-proportion="0.14651163" vertical-offset="216" max-vertical-offset="1584">
               <folding />
             </state>
           </provider>
@@ -292,7 +292,11 @@
       <created>1394482553002</created>
       <updated>1394482553002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1394483097286</created>
+      <updated>1394483097286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -321,7 +325,7 @@
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3214683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.303551" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,7 +411,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="14" selection-start="600" selection-end="600" vertical-scroll-proportion="0.22340426" vertical-offset="216" max-vertical-offset="1584">
+        <state line="19" column="14" selection-start="600" selection-end="600" vertical-scroll-proportion="0.14651163" vertical-offset="216" max-vertical-offset="1584">
           <folding />
         </state>
       </provider>
